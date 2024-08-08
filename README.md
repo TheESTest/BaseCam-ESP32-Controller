@@ -1,4 +1,7 @@
 # BaseCam-ESP32-Controller
+Instructables article: https://www.instructables.com/member/Penguingineer/instructables/
+Youtube video tutorial: https://www.youtube.com/watch?v=7FAC-9hZs3E
+
 This project uses the BaseCam Serial API with an ESP32-S3 dev board to read and send signals from an ESP32 to a BaseCam SimpleBGC 32-bit Extended Long controller.
 There are two cases:
 1. Case #1 - using 1 x ESP32-S3 dev board directly reading from 3 x single-axis joystick modules, and connected directly to the BaseCam controller. Run the PlatformIO code on the ESP32.
